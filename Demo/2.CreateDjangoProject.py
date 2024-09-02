@@ -9,6 +9,7 @@
         - Windows : .\EnvDjango\Scripts\activate
         - Linux/Mac : source env/bin/activate
 """
+#Oh My posh => styliser terminal
 
 # Une fois notre environnement virtuel créé et activé, nous allons commencer à installer toutes les choses qui seront nécessaires au bon développement de notre application. (Pour le moment juste Django) :
 
